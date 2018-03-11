@@ -664,7 +664,8 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rado PC\\.nuget\\packages\\": {},
+    "C:\\Users\\ibuserov\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -673,18 +674,20 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\SoftUnu TortoiseGit Repo\\Teamwork\\intro-and-basic-syntax\\exercise\\Intro and Basic Syntax - Exercises\\programming-fundamentals\\03. Miles to Kilometers\\03. Miles to Kilometers.csproj",
+      "projectUniqueName": "C:\\Users\\ibuserov\\Desktop\\SoftTechnologies\\1_GitHub\\Exercises\\Homework\\Teamwork\\programming-fundamentals\\03. Miles to Kilometers\\03. Miles to Kilometers.csproj",
       "projectName": "03. Miles to Kilometers",
-      "projectPath": "D:\\SoftUnu TortoiseGit Repo\\Teamwork\\intro-and-basic-syntax\\exercise\\Intro and Basic Syntax - Exercises\\programming-fundamentals\\03. Miles to Kilometers\\03. Miles to Kilometers.csproj",
-      "packagesPath": "C:\\Users\\Rado PC\\.nuget\\packages\\",
-      "outputPath": "D:\\SoftUnu TortoiseGit Repo\\Teamwork\\intro-and-basic-syntax\\exercise\\Intro and Basic Syntax - Exercises\\programming-fundamentals\\03. Miles to Kilometers\\obj\\",
+      "projectPath": "C:\\Users\\ibuserov\\Desktop\\SoftTechnologies\\1_GitHub\\Exercises\\Homework\\Teamwork\\programming-fundamentals\\03. Miles to Kilometers\\03. Miles to Kilometers.csproj",
+      "packagesPath": "C:\\Users\\ibuserov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ibuserov\\Desktop\\SoftTechnologies\\1_GitHub\\Exercises\\Homework\\Teamwork\\programming-fundamentals\\03. Miles to Kilometers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Rado PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\ibuserov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
