@@ -1,21 +1,42 @@
-Exercises: C# Intro and Basic Syntax
-Problems for exercises and homework for the “Programming Fundamentals Extended” course @ SoftUni.
+## Exercises: C# Intro and Basic Syntax
 
-Problem 4.   Beverage Labels
-Write a program, which reads a food product name, volume, energy content per 100ml and sugar content per 100ml. Calculate the energy and sugar content for the given volume and print them on the console in the following format:
+### 
 
-·         Name – as per the input
+Problems for exercises and homework for the
+[“Programming
+Fundamentals Extended” course @ SoftUni](https://softuni.bg/courses/programming-fundamentals).
 
-·         Volume – integer, suffixed by “ml” (e.g. “220ml”)
+### Problem 4.  Beverage Labels
 
-·         Energy content – integer, suffixed by “kcal” (e.g. “500kcal”)
+Write a program, which reads a food product
+**name**, **volume**, **energy content****per 100ml** and **sugar content per 100ml**. Calculate the **energy** and **sugar content**
+for the **given volume** and print them
+on the console in the following format:
 
-·         Sugar content – integer, suffixed by “g” (e.g. “30g”)
+·        
+Name – as per the input
 
-Examples
-Input
+·        
+Volume – **integer**, **suffixed** by “**ml**” (e.g. “**220ml**”)
 
-Output
+·        
+Energy content – **integer**, **suffixed** by “**kcal**” (e.g.
+“**500kcal**”)
+
+·        
+Sugar content – **integer**, **suffixed** by “**g**” (e.g. “**30g**”) 
+
+#### Examples
+
+ 
+
+**Input**
+
+ 
+
+**Output**
+
+ 
 
 Nuka-Cola
 
@@ -25,15 +46,23 @@ Nuka-Cola
 
 70
 
+ 
+
 220ml Nuka-Cola:
 
 660kcal, 154g sugars
 
+ 
+
  
 
-Input
+**Input**
 
-Output
+ 
+
+**Output**
+
+ 
 
 Ice Cold Nuka-Cola
 
@@ -43,15 +72,23 @@ Ice Cold Nuka-Cola
 
 65
 
+ 
+
 250ml Ice Cold Nuka-Cola:
 
 875kcal, 162.5g sugars
 
+ 
+
  
 
-Input
+**Input**
 
-Output
+ 
+
+**Output**
+
+ 
 
 Nuka-Cola Quantum
 
@@ -61,7 +98,8 @@ Nuka-Cola Quantum
 
 140
 
+ 
+
 350ml Nuka-Cola Quantum:
 
 2100kcal, 490g sugars
-
